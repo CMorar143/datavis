@@ -1,0 +1,14 @@
+CANDY
+-> Does having more kids affect how much candy is bought?
+-> Does household income affect how much candy is bought?
+-> Which affects it more?
+
+TYPE OF PRODUCTS
+-> What type of products do people of higher income tend to buy?
+-> Does location play a role into the type of products bought?
+
+ALCOHOL
+-> Distribution of alcoholic beverages across different countries
+-> Distribution of alcohol among marital status
+-> Does having more kids affect how much alcohol is bought?
+-> Does household income affect how much alcohol is bought?
